@@ -1,20 +1,19 @@
-## Hi there 👋
+你好👋 我是Ker ZJZ~
 
-<!--
-**kerzjz/kerzjz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
+<div class="mdui-chip">
+  <span class="mdui-chip-icon"><i class="mdui-icon material-icons">music_note</i></span>
+  <span class="mdui-chip-title">钢琴</span>
+</div>
+<div class="mdui-chip">
+  <span class="mdui-chip-icon"><i class="mdui-icon material-icons">web</i></span>
+  <span class="mdui-chip-title">Web/AI</span>
+</div>
+<div class="mdui-chip">
+  <span class="mdui-chip-icon"><i class="mdui-icon material-icons">videogame_asset</i></span>
+  <span class="mdui-chip-title">Minecraft</span>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kerzjz&show_icons=true&theme=transparent)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<link rel="stylesheet" href="https://unpkg.com/mdui@1.0.2/dist/css/mdui.min.css">
+<script src="https://unpkg.com/mdui@1.0.2/dist/js/mdui.min.js"></script>
