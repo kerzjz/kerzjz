@@ -2,6 +2,7 @@ Hi👋 I'm Ker ZJZ~
 
 Tech[Web/AI]・Art&Culture[Piano/Design]・Game[Minecraft]・Economics
 
+---
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=outlook&logoColor=white)](mailto:kerzjz@outlook.com) 
