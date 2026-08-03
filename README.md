@@ -4,7 +4,7 @@ Tech[Web/AI]・Art&Culture[Piano/Design]・Game[Minecraft]・Economics
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=outlook&logoColor=white)](mailto:kerzjz@outlook.com)
-![微信公众号](https://img.shields.io/badge/微信公众号-@Ker%_ZJZ-green)
+![微信公众号](https://img.shields.io/badge/微信公众号-@Ker_ZJZ-green)
 ![QQ]( https://img.shields.io/badge/QQ-3869843633-blue)
 [![Bilibili]( https://img.shields.io/badge/Bilibili-@Ker__ZJZ-blue)](https://space.bilibili.com/3546746017810685)
 
